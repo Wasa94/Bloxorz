@@ -1,3 +1,3 @@
 # Bloxorz
 
-Projekat iz predmeta Funkcionalno Programiranje. Tekst projekta u FP_Projekat_2019.pdf.
+Projekat iz predmeta Funkcionalno Programiranje. Tekst projekta se nalazi u fajlu FP_Projekat_2019.pdf.
